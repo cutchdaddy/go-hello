@@ -1,0 +1,83 @@
+{
+  "count": 3,
+  "users": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Henry",
+        "last": "Howard"
+      },
+      "location": {
+        "street": "3258 Thornridge Cir",
+        "city": "Frederick",
+        "state": "Texas",
+        "zip": "17354"
+      },
+      "email": "henry.howard66@example.com",
+      "username": "tinyleopard307",
+      "registered": "2013-10-16 18:48:56 -0500",
+      "dob": "1973-06-20 21:28:17 -0500",
+      "phone": "(458)-811-9202",
+      "cell": "(880)-850-2345",
+      "picture": {
+        "large": "http://api.randomuser.me/portraits/men/95.jpg",
+        "medium": "http://api.randomuser.me/portraits/med/men/95.jpg",
+        "thumbnail": "http://api.randomuser.me/portraits/thumb/men/95.jpg"
+      },
+      "ssn": "254-96-7952"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Georgia",
+        "last": "Hill"
+      },
+      "location": {
+        "street": "3703 Oak Ridge Ln",
+        "city": "Greeley",
+        "state": "New Jersey",
+        "zip": "46961"
+      },
+      "email": "georgia.hill35@example.com",
+      "username": "bluesnake932",
+      "registered": "2014-07-30 19:06:40 -0500",
+      "dob": "1978-11-14 05:48:08 -0600",
+      "phone": "(100)-291-8295",
+      "cell": "(262)-805-5198",
+      "picture": {
+        "large": "http://api.randomuser.me/portraits/women/15.jpg",
+        "medium": "http://api.randomuser.me/portraits/med/women/15.jpg",
+        "thumbnail": "http://api.randomuser.me/portraits/thumb/women/15.jpg"
+      },
+      "ssn": "483-40-6904"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "Mrs",
+        "first": "Amy",
+        "last": "Meyer"
+      },
+      "location": {
+        "street": "7628 Northaven Rd",
+        "city": "Desoto",
+        "state": "Iowa",
+        "zip": "81255"
+      },
+      "email": "amy.meyer50@example.com",
+      "username": "silverbird585",
+      "registered": "2000-03-12 10:23:57 -0600",
+      "dob": "1985-04-26 17:46:02 -0600",
+      "phone": "(999)-605-6744",
+      "cell": "(446)-598-8406",
+      "picture": {
+        "large": "http://api.randomuser.me/portraits/women/30.jpg",
+        "medium": "http://api.randomuser.me/portraits/med/women/30.jpg",
+        "thumbnail": "http://api.randomuser.me/portraits/thumb/women/30.jpg"
+      },
+      "ssn": "674-16-1687"
+    }
+  ]
+}
