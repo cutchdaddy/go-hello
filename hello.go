@@ -9,9 +9,6 @@
 	"sync"
 )
 
-//initialize global translation tables
-
-
 type UserA struct {
 	Gender string
 	Name struct {
